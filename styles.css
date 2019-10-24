@@ -29,7 +29,6 @@ hr {
 
 .taskDivider {
     border: none;
-    width: 93%;
     border-top: 1px dotted rgb(175, 0, 0);
     color: #fff;
 }
@@ -55,6 +54,8 @@ ul {
 .icon-bin { 
     font-size: 1.8em;
     color: #000;
+    background-color: rgba(255, 255, 255, 0);;
+    border: 0;
     padding-right: 5px;
     padding-left: 5px;
 }
